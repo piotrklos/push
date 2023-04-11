@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d559b61-9f03-47ee-89b7-82c70f919c00" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../push/example/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../push/example/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../push/example/pubspec.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../push/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../push/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../push/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../push/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/push_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/push_android.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../push_ios/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../push_ios/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../push_macos/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../push_macos/pubspec.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="6d559b61-9f03-47ee-89b7-82c70f919c00" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
